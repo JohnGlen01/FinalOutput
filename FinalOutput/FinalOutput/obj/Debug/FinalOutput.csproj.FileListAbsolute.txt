@@ -1,0 +1,11 @@
+C:\Final_CC106\FinalOutput\FinalOutput\bin\Debug\FinalOutput.exe.config
+C:\Final_CC106\FinalOutput\FinalOutput\bin\Debug\FinalOutput.exe
+C:\Final_CC106\FinalOutput\FinalOutput\bin\Debug\FinalOutput.pdb
+C:\Final_CC106\FinalOutput\FinalOutput\obj\Debug\FinalOutput.csprojResolveAssemblyReference.cache
+C:\Final_CC106\FinalOutput\FinalOutput\obj\Debug\FinalOutput.Properties.Resources.resources
+C:\Final_CC106\FinalOutput\FinalOutput\obj\Debug\FinalOutput.csproj.GenerateResource.Cache
+C:\Final_CC106\FinalOutput\FinalOutput\obj\Debug\FinalOutput.exe
+C:\Final_CC106\FinalOutput\FinalOutput\obj\Debug\FinalOutput.pdb
+C:\Final_CC106\FinalOutput\FinalOutput\obj\Debug\FinalOutput.RegForm.resources
+C:\Final_CC106\FinalOutput\FinalOutput\obj\Debug\FinalOutput.LoginForm.resources
+C:\Final_CC106\FinalOutput\FinalOutput\obj\Debug\FinalOutput.Home.resources
